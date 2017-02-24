@@ -141,7 +141,7 @@ background-size: cover;
 #mainContent
 {
 	height:40%;
-	top: 10%;
+	top: 25%;
 	
 
 }
@@ -159,7 +159,7 @@ background-size: cover;
 .buttonclassic {
  
     margin-top: 4.5%;
-    font-size: 12px;
+    font-size: 30px;
     letter-spacing: 1.5px;
 }
 #mainContent h1
